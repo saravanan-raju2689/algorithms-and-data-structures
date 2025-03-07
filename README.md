@@ -28,7 +28,7 @@ To set up the project, follow these steps:
    ```
 2. Navigate to the project directory:
    ```
-   cd algorithm-project
+   cd algorithms-and-data-structures
    ```
 3. Install the required dependencies:
    ```
